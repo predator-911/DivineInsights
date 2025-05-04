@@ -7,7 +7,7 @@
 
 **Divine Insights** is an interactive web application that helps users explore, understand, and reflect on the profound wisdom of Hindu scriptures. Powered by Streamlit and enhanced with AI capabilities, this application makes ancient spiritual teachings accessible to everyone.
 
-![Divine Insights Demo](https://raw.githubusercontent.com/predator-911/DivineInsights/main/assets/demo.png)
+![Divine Insights Demo](https://huggingface.co/spaces/Predator911/DivineInsights)
 
 ## ✨ Features
 
