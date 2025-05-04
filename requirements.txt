@@ -1,0 +1,12 @@
+streamlit>=1.29.0
+pandas
+numpy
+matplotlib
+wordcloud
+pillow
+transformers
+sentence-transformers
+torch
+scipy
+python-dateutil
+requests
